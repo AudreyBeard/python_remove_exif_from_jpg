@@ -1,4 +1,4 @@
-# Removing EXIF data from your JPG files has never been so easy! /s
+# Removing EXIF data has never been this easy! /s
 This Python3 script removes all EXIF data from all JPG files in its directory.
 
 Usage:

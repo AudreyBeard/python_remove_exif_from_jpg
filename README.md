@@ -1,5 +1,5 @@
 # Removing EXIF data has never been this easy!
-This Pog Python3 script removes the EXIF data from all JPG files in its directory.
+This Python3 script removes the EXIF data from all JPG files in its directory.
 
 # Usage if you don't trust me:
 

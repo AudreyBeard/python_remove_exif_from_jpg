@@ -13,10 +13,9 @@ This Pog Python3 script removes the EXIF data from all JPG files in its director
 
 1. Make sure that you run the 64-bit version of Windows 10.
 2. Put the EXE file into the same directory that all your JPG files are in.
-3. Make sure that the EXE has the following SHA256: b1daf1cff42182adb52010e86d8bf2eed364601e8be964c98b6fe7465f804bcf
-
-(Open CMD in the correct path and use "certutil -hashfile remove_exif.exe SHA256" to check)
-4. Run the EXE file.
+3. Open CMD in the correct path and use "certutil -hashfile remove_exif.exe SHA256" to calulate the SHA256 hash.
+4. Make sure that the EXE has the following SHA256: b1daf1cff42182adb52010e86d8bf2eed364601e8be964c98b6fe7465f804bcf
+5. Run the EXE file.
 
 
 # Wait.. you are still reading? Do you want to know more?

@@ -16,7 +16,6 @@ def strip_exif(images):
     no_exif.save(images)
 
 
-path = os.path.dirname(os.path.realpath(__file__))
 files = [f for f in os.listdir('.') if os.path.isfile(f)]
 allowed = {".JPG", ".jpg", "JPEG", "jpeg"}
 for i in files:

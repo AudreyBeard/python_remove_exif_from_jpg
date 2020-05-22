@@ -3,6 +3,7 @@ This Python3 script removes the EXIF data from all JPG files in its directory.
 
 Usage:
 
-1. Put the script into the same directory that all your JPG files are in.
-2. Run the script.
-3. WOW GOOD JOB LIKE&SUBSCRIBE AND SMASH THE NOTIFICATION BELL IF YOU LIKED THIS SCRIPT!
+1. Install the pillow library. Windows: pip install pillow, Ubuntu: sudo pip3 install pillow
+2. Put the script into the same directory that all your JPG files are in.
+3. Run the script.
+4. WOW LIKE&SUBSCRIBE AND SMASH THAT NOTIFICATION BELL IF YOU LIKE THIS SCRIPT!

@@ -17,7 +17,7 @@ This Python3 script removes the EXIF data from all JPG files in its directory.
 5. Run the EXE file.
 
 
-# Wait.. you are still reading? Do you want to know more?
+# How did you create the binary?
 
 I used "pyinstaller --onefile remove_exif.py" to convert the Python file into an EXE.
 
